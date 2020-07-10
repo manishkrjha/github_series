@@ -7,6 +7,7 @@
 > College Details
 - Institution: Institute of Engineering & Technology, DAVV 
 - city: Indore
+- state: Madhya Pradesh
 
 > Tech Stack
   c++, Html, CSS, bootstrap, Javascript, NodeJs
