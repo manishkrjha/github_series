@@ -1,7 +1,7 @@
 ### Introduction
 
 > General
-- Name: Manish Kumar Jha.
+- Name: Manish Jha.
 - profession: Student, BE second year.
 
 > College Details
