@@ -33,6 +33,7 @@ Type following commands in your terminal to configure your username and email
     git --config global user.name "Your name"
     git --config global user.email "your@email"
 ```
+---
 
 ### Git Repository
 A repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history. You can also discuss and manage your project's work within the repository.
@@ -66,6 +67,8 @@ The above changes till now are on the local system only. To push these changes o
 
 *The repo has been pushed to master branch on github*
 
+---
+
 ### Making Changes in other's project
 
 > Forking a Repo
@@ -83,6 +86,8 @@ After forking a project you get personal copy of that project **but** to make ch
     - ```git clone link```
 
 Now you're all set to make changes in the project.    
+
+---
 
 ### Branch
 Git branch is a feature in git used for separating a feature or part of code from master in order not to mess something in our main code
@@ -102,6 +107,8 @@ Once the changes are commited they chan be pushed to repository on github.
 
 ```git push --set-upstream origin branch_name```
 
+---
+
 ### Merge and Merge Conflict
 
 > Merge
@@ -114,8 +121,12 @@ type ``` git merge branch_name ```
 > Merge Conflict
 When different files are changed git successfully commits changes but when the same piece of code is changed in two different ways git fails to configure the difference between two commits. Thus it raises conflict which is known as merge conflict.
 
+---
+
 ### Pull Request
 PR or pull request is a feature utilised whenever we want to contribute to someone else's repository. Pull requests let you tell others about changes you've pushed to a GitHub repository. In order to contribute to anyone else's project we create a pull request with the title and the description of the changes we want to make. If the project administrator finds the changes useful, he can accept the PR and merge. Creating a PR is subject to merge conflicts. We can only create a PR if there are no unresolved merge conflicts.
+
+---
 
 ### Opening and Resoliving issues
 
